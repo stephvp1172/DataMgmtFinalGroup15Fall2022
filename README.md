@@ -31,7 +31,7 @@ Data is very skewed and has a significantly larger amount of data regarding the 
 Small number of information regarding consumers, which makes it difficult to provided detailed consumer insights on purchasing habits.
 Overlapping records: one customer may have purchased several products in one transaction, while a specific product may have been purchased by many different consumers.
 
-#Attestation
+# Attestation
 All group members contributed meaningfully to the project, and have complete knowledge of any part of it
 
 The group members contributed to the following:
