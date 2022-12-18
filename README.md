@@ -43,23 +43,27 @@ Ask 2 Data Wrangling (Dimensional Model, Adding attributes)
 Ask 3 Data Analysis (Q3 Part 2 total transactions per quarter to conclusion of Q3 part 2)
 Slide deck creation (ask 1, ask 3 question 3 slides, editing)
 Group lead misc tasks (scheduling meetings, proofreading, assisting other group members)
+
 Priscilla:
 
 Ask 2 Data Wrangling (Dimensional Model)
 Ask 3 Data Analysis (Q3 part 1)
 Slide deck creation (tidying up/edits, ask 1, ask 3 (Q3, Part 1)
 Assisting other group members
+
 Xinyi:
 
 Ask 2 Data Wrangling
 Ask 3 Data Analysis (Question 2)
 Slide deck creation (ask 2)
 Assisting other group members
+
 Swapnil:
 
 Ask 3 Data Wrangling (Question 2)
 Editing slide deck
 Assisting other group members
+
 Mounika:
 Ask 1
 -Ask 3 Data Analysis (Q3 part 2 (Observing Customer Loyalty and Observing Popular Product Sales))
